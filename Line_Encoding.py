@@ -27,10 +27,8 @@ import tkinter as tk
 
 __author__ = “Akash Sivakumar”
 __copyright__ = “Copyright 2021, line_encoding_schemes”
-__credits__ = [“Rajkumar”]
+__credits__ = [“Rajkumar @https://github.com/RAJKUMAR0003”]
 __version__ = “0.1.0”
-__maintainer__ = “Akash Sivakumar”
-__email__ = “akashiva1301@gmail.com”
 __status__ = “Dev”
 
 #Unipolar - NRZ
