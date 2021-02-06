@@ -24,7 +24,15 @@ import numpy as np
 from tkinter import * 
 from tkinter.font import Font
 import tkinter as tk
-#11001110
+
+__author__ = “Akash Sivakumar”
+__copyright__ = “Copyright 2021, line_encoding_schemes”
+__credits__ = [“Rajkumar”]
+__version__ = “0.1.0”
+__maintainer__ = “Akash Sivakumar”
+__email__ = “akashiva1301@gmail.com”
+__status__ = “Dev”
+
 #Unipolar - NRZ
 def Unipolar_NRZ():
     bit_stream = ['0']+list(input.get(1.0, tk.END+"-1c"))
